@@ -10,7 +10,7 @@ function kekMessage {
 
 if [ -z "$1" ]
 then
-echo "./Mine.sh (Bitcoin/Adress)"
+echo "./mine.sh (Bitcoin/Adress)"
 exit 0
 fi
 
@@ -24,10 +24,10 @@ kekMessage""
 kekMessage  "               Bitcoin/Mine"
 kekMessage  "                   Version 1.0"
 kekMessage  "                   Script by"
-kekMessage  "                  RAW NETWORKS"
+kekMessage  "                  oskayy"
 kekMessage  "              _____________________"
 kekMessage ""
-kekMessage  "                 Nulled-World.eu"
+kekMessage  "                "
 kekMessage""
 greenMessage "################################################"
 sleep 2
